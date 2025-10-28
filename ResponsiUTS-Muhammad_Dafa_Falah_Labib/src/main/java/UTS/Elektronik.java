@@ -21,7 +21,8 @@ public class Elektronik extends Produk {
     @Override
     public void tampilkanInfo(){
          super.tampilkanInfo();
-         System.out.println("Garansi: " + garansi + tahun);
+         System.out.println("Garansi: " + garansi + "tahun");
     }
 }
+
 
