@@ -21,6 +21,7 @@ public class PegawaiKontrak extends Pegawai {
    @Override
    public void tampilkanInfo(){
         super.tampilkanInfo();
-        System.out.println("Lama Kontrak:" + lamaKontrak);
+        System.out.println("Lama Kontrak:" + lamaKontrak + "bulan");
     }
+
 }
